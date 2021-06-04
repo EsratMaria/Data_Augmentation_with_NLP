@@ -23,4 +23,4 @@ Few NLP based data/text augmentation tecniques to bring more diversity in the da
    back translation: EN --> I do not have time
   ```
  
- This is a practice repository to get familiar with different NLP techniques. ❤️
+ **This is a practice repository to get familiar with different NLP techniques. ❤️**
