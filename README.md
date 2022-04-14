@@ -18,7 +18,7 @@ Few NLP based data/text augmentation tecniques to bring more diversity in the da
    For example:
    ```
    source lang: EN --> I have no time
-   target lang: FR --> je n'ai pas le temps 
+   target lang: FR --> je n'ai pas le temps
 
    back translation: EN --> I do not have time             
   ```
