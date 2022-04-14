@@ -20,7 +20,7 @@ Few NLP based data/text augmentation tecniques to bring more diversity in the da
    source lang: EN --> I have no time
    target lang: FR --> je n'ai pas le temps       
 
-   back translation: EN --> I do not have time               
+   back translation: EN --> I do not have time              
   ```
   
  **This is a practice repository to get familiar with different NLP techniques. ❤️**
