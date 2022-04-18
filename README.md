@@ -12,7 +12,7 @@ Few NLP based data/text augmentation tecniques to bring more diversity in the da
   Antonym: I like pasta. Like Antonyms: dislike, unlike, dissimilar, etc
   ```
 - Back translation
- 
+
    Translating a given source language to a target language and then translating back to the source language.
 
    For example:
