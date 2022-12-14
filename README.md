@@ -5,7 +5,7 @@ Few NLP based data/text augmentation tecniques to bring more diversity in the da
 
 - Adding synonyms/antonyms to the dictionary
 
-  For example:  
+  For example: 
   ```
   Synonym: I like pasta. Like synonyms : alike, same, similar, etc
   Antonym: I like pasta. Like Antonyms: dislike, unlike, dissimilar, etc
