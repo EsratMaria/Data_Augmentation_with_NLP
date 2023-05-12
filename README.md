@@ -14,7 +14,7 @@ Few NLP based data/text augmentation tecniques to bring more diversity in the da
 
    Translating a given source language to a target language and then translating back to the source language.
 
-   For example:    
+   For example:   
    ```
    source lang: EN --> I have no time
    target lang: FR --> je n'ai pas le temps
