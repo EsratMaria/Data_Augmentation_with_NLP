@@ -4,7 +4,7 @@ Few NLP based data/text augmentation tecniques to bring more diversity in the da
 ### There are several augmentation technique, in this repository, I tried two augmentation techniques:
 
 - Adding synonyms/antonyms to the dictionary
-
+  
   For example:
   ```
   Synonym: I like pasta. Like synonyms : alike, same, similar, etc
