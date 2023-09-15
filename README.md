@@ -7,7 +7,7 @@ Few NLP based data/text augmentation techniques to bring more diversity to the d
   
   For example:
   ```
-  Synonym: I like pasta. Like synonyms : alike, same, similar, etc
+  Synonym: I like pasta. Like synonyms: alike, same, similar, etc
   Antonym: I like pasta. Like Antonyms: dislike, unlike, dissimilar, etc
   ```
 - Back translation
