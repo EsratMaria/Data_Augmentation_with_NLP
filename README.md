@@ -10,7 +10,7 @@ Few NLP-based data/text augmentation techniques to bring more diversity to the d
   Synonym: I like pasta. Like synonyms: alike, same, similar, etc
   Antonym: I like pasta. Like Antonyms: dislike, unlike, dissimilar, etc
   ```
-- Back translation
+- Back translation 
 
    Translating a given source language to a target language and then translating back to the source language.
 
