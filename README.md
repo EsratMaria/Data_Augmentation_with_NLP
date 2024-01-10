@@ -1,5 +1,5 @@
 # Data Augmentation Techniques with NLP
-Few NLP-based data/text augmentation techniques in order to bring more diversity to the dataset.  
+Few NLP-based data/text augmentation techniques in order to bring more diversity to the dataset. 
 
 ### There are several augmentation techniques, in this repository, I tried two augmentation techniques:
 
